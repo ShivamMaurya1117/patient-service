@@ -5,8 +5,8 @@ Content-Type: application/json
 
 {
   "name": "Shivam Maurya",
-  "email": "testExample@123.com",
-  "address": "123 main street",
+  "email": "test_UpdateExample@123.com",
+  "address": "123 main street22",
   "dateOfBirth": "2001-09-09",
   "registeredDate" : "2026-11-12"
 }
